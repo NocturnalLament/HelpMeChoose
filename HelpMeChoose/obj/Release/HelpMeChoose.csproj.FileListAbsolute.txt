@@ -1,0 +1,6 @@
+C:\Users\fayed\source\repos\HelpMeChoose\HelpMeChoose\bin\Release\HelpMeChoose.exe
+C:\Users\fayed\source\repos\HelpMeChoose\HelpMeChoose\bin\Release\HelpMeChoose.pdb
+C:\Users\fayed\source\repos\HelpMeChoose\HelpMeChoose\obj\Release\HelpMeChoose.csproj.AssemblyReference.cache
+C:\Users\fayed\source\repos\HelpMeChoose\HelpMeChoose\obj\Release\HelpMeChoose.csproj.CoreCompileInputs.cache
+C:\Users\fayed\source\repos\HelpMeChoose\HelpMeChoose\obj\Release\HelpMeChoose.exe
+C:\Users\fayed\source\repos\HelpMeChoose\HelpMeChoose\obj\Release\HelpMeChoose.pdb
